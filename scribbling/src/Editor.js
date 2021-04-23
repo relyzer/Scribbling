@@ -103,10 +103,10 @@ export default function Editor() {
         wrapper.append(editor);
         const q = new Quill(editor, { theme: 'snow', 
         modules: { 
-            cursors: true, 
+            //cursors: true, 
             toolbar: TOOLBAR_OPTIONS, 
             // To confine undo of changes to each user
-            history: { userOnly: true }
+            //history: { userOnly: true }
         }  });
         q.disable();
         q.setText("Loading...");
