@@ -14,7 +14,7 @@ With plans to add the ability to collaborate with others in real-time using Yjs.
   
 ## Resource links:
 
-WebDevSimplified
+WebDevSimplified  
 https://www.youtube.com/watch?v=iRaelG7v0OU
 
 React.js - React components and routing  
